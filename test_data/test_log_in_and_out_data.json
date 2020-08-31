@@ -1,0 +1,9 @@
+{
+    "Log in and out": {
+        "login_credentials": {
+            "email": "selenium.test.uksw@gmail.com",
+            "password": "automated1234",
+            "username": "AutoSelenium"
+        }
+    }
+}

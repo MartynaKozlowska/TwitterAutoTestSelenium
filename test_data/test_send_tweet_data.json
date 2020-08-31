@@ -1,0 +1,10 @@
+{
+    "Send tweet": {
+        "login_credentials": {
+            "email": "selenium.test.uksw@gmail.com",
+            "password": "automated1234",
+            "username": "AutoSelenium"
+        },
+        "tweet": "Hello, this tweet is being send from automated test script "
+    }
+}

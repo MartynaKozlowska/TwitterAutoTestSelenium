@@ -1,0 +1,12 @@
+{
+    "Retweet and follow": {
+        "login_credentials": {
+            "email": "selenium.test.uksw@gmail.com",
+            "password": "automated1234",
+            "username": "AutoSelenium"
+        },
+        "searched_phrase": "@CDPROJEKTRED",
+        "profile_name": "CD PROJEKT RED",
+        "tweet_number": "1"
+    }
+}
